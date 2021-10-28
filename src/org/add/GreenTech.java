@@ -19,6 +19,25 @@ public static void main(String[] args) {
 	g.greensOmr(001);
 	g.greensOmr(988654876, "java class");
 	g.greensOmr("pythen class", 6567865);
+	System.out.println(123);
+	System.out.println(123);
+	System.out.println(123);
+	System.out.println(123);
+	System.out.println(123);
+	System.out.println(123);
+	System.out.println(123);
+	System.out.println(123);
+	System.out.println(123);
+	System.out.println(123);
+	System.out.println(123);
+	System.out.println(123);
+	System.out.println(123);
+	System.out.println(123);
+	System.out.println(123);
+	System.out.println(123);
+	System.out.println(123);
+	System.out.println(123);
+	System.out.println(123);
 	
 	
 
